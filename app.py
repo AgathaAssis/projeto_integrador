@@ -1,0 +1,1 @@
+print('Bem-vindo ao nosso sistema de estoque')
